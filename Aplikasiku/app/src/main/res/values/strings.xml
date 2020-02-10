@@ -16,4 +16,6 @@
 	<string name="confirm_password">Confirm Password</string>
 	<string name="send_request">Send Request</string>
 	<string name="change_password">Change Password</string>
+	<string name="kominfo">DTS Kominfo</string>
+
 </resources>
